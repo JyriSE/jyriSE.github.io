@@ -1,7 +1,3 @@
-<html>
-<head>
-    
-  </headZ>
 </html>
 
 <h1>MYYNNISSÄ YKSI PAINIKE</h1>
