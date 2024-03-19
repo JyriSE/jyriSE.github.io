@@ -1,4 +1,4 @@
-<!DOCKTIME html>
+
 <html>
 <head>
     
@@ -9,5 +9,4 @@
 <p>Vain yksi painike täyteen kontrolliin tilanteesta riippumatta!</p>
 
 <img src="ctrl.webp" width="400" height="500">
-</body>
-</html>
+
